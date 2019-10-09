@@ -11,7 +11,7 @@ Son múltiples las aplicaciones del análisis espacial desde las que podrías co
 
 Mi/s pregunta/s de investigación es/son la/s siguiente/s (sustitye los puntos suspensivos por tus preguntas, no borres el símbolo \*).
 
-* ¿Cuáles Datos Esenciales y Temáticos Son Necesario Para Elaborar los Mapas de Emergencia?
+* ....
 
 * ...
 
