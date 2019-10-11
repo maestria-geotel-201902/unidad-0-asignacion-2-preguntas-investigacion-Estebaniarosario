@@ -11,7 +11,7 @@ Son múltiples las aplicaciones del análisis espacial desde las que podrías co
 
 Mi/s pregunta/s de investigación es/son la/s siguiente/s (sustitye los puntos suspensivos por tus preguntas, no borres el símbolo \*).
 
-* 
+* Creacion e Implementacion de un Sistema de Informacion Geografica de Bancas de Loterias y de Apuestas Deportivas del sector de Villa Consuelo, Sto. Dgo. D.N.
 
 * ...
 
