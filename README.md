@@ -11,11 +11,11 @@ Son múltiples las aplicaciones del análisis espacial desde las que podrías co
 
 Mi/s pregunta/s de investigación es/son la/s siguiente/s (sustitye los puntos suspensivos por tus preguntas, no borres el símbolo \*).
 
-* Creacion e Implementacion de un Sistema de Informacion Geografica de Bancas de Loterias y de Apuestas Deportivas del Sector de Villa Consuelo, Sto. Dgo. D.N.
+* ¿Cuál es patrón de distribución que presentan las cuarenta y cuatro (44) Bancas de Loterías y de Apuestas Deportivas en el Sector de Villa Consuelo (agregado, aleatorio, uniforme)?
 
-* ...
+* ¿Cuál es la relación entre las ubicaciónes georreferenciadas de las Bancas de Loterías y Apuestas Deportivas y los Centros Educativos en el Sector de Villa Consuelo?
 
-* ...
+* 
 
 * ...
 
